@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Login check
 
 Error fixed
 =======
 Login checj
 >>>>>>> parent of 6786539 (k)
+=======
+Login check
+>>>>>>> parent of 2bd80b8 (error fixed)
