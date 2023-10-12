@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Login check
 
 Error fixed
+=======
+Login checj
+>>>>>>> parent of 6786539 (k)
